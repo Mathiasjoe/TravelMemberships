@@ -1,4 +1,4 @@
-public class GoldMembership extends MemberShip{
+public class GoldMembership extends Membership{
 
     private float pointScalingFactor1 = 1.3f;
     private float pointScalingFactor2 = 1.5f;

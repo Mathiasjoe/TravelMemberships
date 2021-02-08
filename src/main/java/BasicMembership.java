@@ -1,4 +1,4 @@
-public class BasicMembership extends MemberShip{
+public class BasicMembership extends Membership{
 
     private float pointScalingFactor = 1.0f;
 

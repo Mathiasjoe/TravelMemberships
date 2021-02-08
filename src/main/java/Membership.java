@@ -1,10 +1,10 @@
-public class MemberShip {
+public class Membership {
 
     private int bonusPointBalance;
     private int newPoints;
     private String membershipName = "";
 
-    public MemberShip(String membershipName) {
+    public Membership(String membershipName) {
         this.membershipName = membershipName;
     }
 
