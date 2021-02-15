@@ -21,6 +21,8 @@ public class GoldMembership extends Membership{
         this.membershipName = "Gold";
     }
 
+
+    @Override
     public int registerPoints(int newPoints, int bonusPointBalance){
         float pointScalingFactor;
 
